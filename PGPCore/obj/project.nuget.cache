@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "J65/lzGHCEq7VkLsLmSPPwQhyX30XtrMm+jX6mztHKdOBe+u8Y95aTZxCTazk6oJAD0GuZqUmLh6dq/6JxSOPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oladayo.ale\\source\\repos\\PGP\\PGPCore\\PGPCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\bouncycastle.netcore\\1.9.0\\bouncycastle.netcore.1.9.0.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\bouncycastle.netcoresdk\\1.9.7\\bouncycastle.netcoresdk.1.9.7.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\oladayo.ale\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
